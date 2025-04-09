@@ -1,0 +1,68 @@
+﻿######################################
+# Build output
+######################################
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+######################################
+# User-specific IDE settings
+######################################
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+######################################
+# Logs, dumps, backups
+######################################
+*.log
+*.bak
+*.tmp
+*.old
+
+######################################
+# Visual Studio folders
+######################################
+.vs/
+.vscode/
+.idea/
+*.dbmdl
+
+######################################
+# Rider / ReSharper
+######################################
+*.DotSettings.user
+.ReSharper/
+
+######################################
+# Publish output folders
+######################################
+publish/
+*.publishsettings
+
+######################################
+# Fody
+######################################
+# Keep FodyWeavers.xml (config needed)
+# Fody-generated weaving cache
+**/obj/Fody/
+**/obj/Debug/*_fody.dll
+**/obj/Release/*_fody.dll
+
+######################################
+# OS-specific
+######################################
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+######################################
+# ffmpeg (optional - embedded binary)
+######################################
+# Uncomment to exclude ffmpeg.exe if not tracked intentionally
+# Assets/ffmpeg.exe
+# Resources/ffmpeg.exe
