@@ -27,7 +27,7 @@
 > Simple, intuitive layout for ease of use!
 
 <p align="center">
-  <img src="ui.png" alt="TubeFetchr UI Screenshot" width="800" />
+  <img src="Assets/ui.png" alt="TubeFetchr UI Screenshot" width="800" />
 </p>
 
 ---
